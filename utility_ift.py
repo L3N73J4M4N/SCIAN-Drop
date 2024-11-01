@@ -126,7 +126,7 @@ def canny_filter(img):
     dilated = cv.dilate(dilated, kernel2)
     n, output, stats, centroids = cv.connectedComponentsWithStats(dilated, connectivity=8)
     sizes = stats[1:, -1]
-    img2 = np.zeros(output.shape)
+    img2 = np.zeros(output.shape, np.uint8)
     for i in range(0, n - 1):
         if sizes[i] >= 1000:
             img2[output == i + 1] = 255
