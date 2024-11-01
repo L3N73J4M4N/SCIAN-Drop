@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2f5073e8-5f73-4c64-af9a-8962094a2618" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/AppData/Local/Programs/Python/Python311/Lib/site-packages/cv2/__init__.pyi" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="2byX5S3csjgVAgdqwS7iozI5xxv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/matia/PycharmProjects/SCIANForce/utility_forces.py",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f5073e8-5f73-4c64-af9a-8962094a2618" name="Changes" comment="" />
+      <created>1707188109230</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707188109230</updated>
+      <workItem from="1707188110318" duration="1226000" />
+      <workItem from="1707240224302" duration="1312000" />
+      <workItem from="1707242537851" duration="1686000" />
+      <workItem from="1708138394970" duration="909000" />
+      <workItem from="1708561870173" duration="64000" />
+      <workItem from="1709738191951" duration="58000" />
+      <workItem from="1709743633450" duration="13000" />
+      <workItem from="1709835001198" duration="1537000" />
+      <workItem from="1710944314059" duration="7435000" />
+      <workItem from="1710979878704" duration="3135000" />
+      <workItem from="1711301604554" duration="1884000" />
+      <workItem from="1711393137034" duration="4885000" />
+      <workItem from="1711411225847" duration="40000" />
+      <workItem from="1711411267061" duration="17000" />
+      <workItem from="1711498508100" duration="6960000" />
+      <workItem from="1711999237596" duration="19000" />
+      <workItem from="1712719945792" duration="6516000" />
+      <workItem from="1712763675224" duration="561000" />
+      <workItem from="1712773692411" duration="170000" />
+      <workItem from="1712947684945" duration="2246000" />
+      <workItem from="1713311393366" duration="13000" />
+      <workItem from="1713323282426" duration="8015000" />
+      <workItem from="1713367064528" duration="1167000" />
+      <workItem from="1713376584944" duration="4835000" />
+      <workItem from="1713472692095" duration="935000" />
+      <workItem from="1713555439709" duration="5025000" />
+      <workItem from="1713806298792" duration="21000" />
+      <workItem from="1713821824382" duration="6597000" />
+      <workItem from="1713970884922" duration="2018000" />
+      <workItem from="1713976425571" duration="2537000" />
+      <workItem from="1714160542253" duration="149000" />
+      <workItem from="1715184667644" duration="3574000" />
+      <workItem from="1715307217054" duration="6314000" />
+      <workItem from="1715357406210" duration="14144000" />
+      <workItem from="1715908198327" duration="4498000" />
+      <workItem from="1715973351316" duration="3944000" />
+      <workItem from="1716423414805" duration="254000" />
+      <workItem from="1716515541539" duration="25000" />
+      <workItem from="1716922406666" duration="5887000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SCIANDrop$window_radius.coverage" NAME="window_radius Coverage Results" MODIFIED="1713324694302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SCIANDrop$ift.coverage" NAME="ift Coverage Results" MODIFIED="1712726311573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SCIANDrop$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1715979708523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SCIANDrop$window2D.coverage" NAME="window2D Coverage Results" MODIFIED="1713978044526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SCIANDrop$alpha.coverage" NAME="alpha Coverage Results" MODIFIED="1711510330715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SCIANDrop$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1715979684124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SCIANDrop$test.coverage" NAME="test Coverage Results" MODIFIED="1712773842860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pythonProject6" />
+    <SUITE FILE_PATH="coverage/SCIANDrop$select_ROI.coverage" NAME="select_ROI Coverage Results" MODIFIED="1712723590913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SCIANDrop$test5.coverage" NAME="test5 Coverage Results" MODIFIED="1716928764823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SCIANDrop$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1715979691959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
