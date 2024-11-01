@@ -16,6 +16,7 @@ Ensure you have Python 3.x installed and the following libraries:
 - NumPy
 - Matplotlib
 - PIL (Python Imaging Library)
+- Scipy
 - Tkinter (for the GUI)
 
 You can install the dependencies using:
@@ -51,6 +52,7 @@ Asegúrate de tener Python 3.x instalado y las siguientes bibliotecas:
 - NumPy
 - Matplotlib
 - PIL (Biblioteca de imágenes de Python)
+- Scipy
 - Tkinter (para la GUI)
   
 Puedes instalar las dependencias usando:
