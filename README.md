@@ -37,6 +37,12 @@ pip install -r requirements.txt
 2. Select regions of interest (ROI) for the droplet and the needle.
 3. Run the analysis and visualize the computed interfacial tension.
 
+## Download SCIAN-Force
+
+You can download the latest version of **SCIAN-Drop** for Windows as an executable file. Click the link below to start the download:
+
+[Download SCIAN-Drop.exe (updated 2024/11/16)](https://drive.google.com/uc?export=download&id=1KXZaDbkFf9LaBeZzygDsrQoyX2Dk9l4m)
+
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
@@ -81,6 +87,12 @@ pip install -r requirements.txt
 1. Carga tus imágenes y establece los parámetros requeridos.
 2. Selecciona las regiones de interés (ROI) para la gota y la aguja.
 3. Ejecuta el análisis y visualiza la tensión interfacial calculada.
+
+## Descargar SCIAN-Force
+
+Puedes descargar la última versión de **SCIAN-Drop** para Windows como un archivo ejecutable. Haz clic en el siguiente enlace para iniciar la descarga:
+
+[Descargar SCIAN-Drop.exe (actualizado 2024/11/16)](https://drive.google.com/uc?export=download&id=1KXZaDbkFf9LaBeZzygDsrQoyX2Dk9l4m)
 
 ## Licencia
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
