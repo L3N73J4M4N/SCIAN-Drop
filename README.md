@@ -1,6 +1,15 @@
-# SCIAN-Drop
+# SCIAN-Drop (English)
 
-SCIAN-Drop is a Python-based software developed to analyze the interfacial tension and mechanical properties of Biocompatible Micro Droplets (BMD) in biological and physical experiments.
+SCIAN-Drop is a Python-based software developed to analyze the interfacial tension and mechanical properties of various fluids using the Pendant Drop method, making it an effective tool for applications in both biological and physical experiments.
+
+## References
+
+**[1]** R. Lucio, A. Arashiro, and N. R. Demarquette, "Pendant drop method: A generalization of the Laplace equation to measure interfacial tension," in *Materials Research*, vol. 18, no. 1, pp. 23–32, 2015. DOI: [10.1590/1516-1439.267314](https://doi.org/10.1590/1516-1439.267314).
+
+
+**[2]** J. Berry et al., "Interfacial tension-driven fluidic assembly of biocompatible materials," *Journal of Colloid and Interface Science*, vol. 437, pp. 232–240, 2015. DOI: [10.1016/j.jcis.2015.05.012](https://doi.org/10.1016/j.jcis.2015.05.012).
+   
+**[3]** F. K. Hansen, "A New Method of Measuring Interfacial Tension," in *Journal of Colloid and Interface Science*, Elsevier, 1991, vol. 144, no. 1, pp. 194–200. DOI: [10.1016/0021-9797(91)90296-K](https://www.sciencedirect.com/science/article/pii/002197979190296K).
 
 ## Description
 SCIAN-Drop determines the interfacial tension between a fluorocarbon oil droplet and the surrounding medium using the Pendant Drop method, a well-established technique in surface science.
@@ -36,6 +45,14 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 # SCIAN-Drop
 SCIAN-Drop es un software basado en Python desarrollado para analizar la tensión interfacial y las propiedades mecánicas de Microgotas Biocompatibles (BMD) en experimentos biológicos y físicos.
+
+## Referencias
+
+**[1]** R. Lucio, A. Arashiro, and N. R. Demarquette, "Pendant drop method: A generalization of the Laplace equation to measure interfacial tension," in *Materials Research*, vol. 18, no. 1, pp. 23–32, 2015. DOI: [10.1590/1516-1439.267314](https://doi.org/10.1590/1516-1439.267314).
+
+**[2]** J. Berry et al., "Interfacial tension-driven fluidic assembly of biocompatible materials," *Journal of Colloid and Interface Science*, vol. 437, pp. 232–240, 2015. DOI: [10.1016/j.jcis.2015.05.012](https://doi.org/10.1016/j.jcis.2015.05.012).
+   
+**[3]** F. K. Hansen, "A New Method of Measuring Interfacial Tension," in *Journal of Colloid and Interface Science*, Elsevier, 1991, vol. 144, no. 1, pp. 194–200. DOI: [10.1016/0021-9797(91)90296-K](https://www.sciencedirect.com/science/article/pii/002197979190296K).
 
 ## Descripción
 SCIAN-Drop determina la tensión interfacial entre una gota de aceite fluorocarbonado y el medio circundante utilizando el método de Pendant Drop, una técnica bien conocida en la ciencia de superficies.
