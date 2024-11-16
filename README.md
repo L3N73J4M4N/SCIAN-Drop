@@ -1,11 +1,10 @@
 # SCIAN-Drop (English)
 
-SCIAN-Drop is a Python-based software developed to analyze the interfacial tension and mechanical properties of various fluids using the Pendant Drop method, making it an effective tool for applications in both biological and physical experiments.
+SCIAN-Drop is a Python-based software developed to analyze the interfacial tension and mechanical properties of various fluids using the *Pendant Drop* method, making it an effective tool for applications in both biological and physical experiments.
 
 ## References
 
 **[1]** R. Lucio, A. Arashiro, and N. R. Demarquette, "Pendant drop method: A generalization of the Laplace equation to measure interfacial tension," in *Materials Research*, vol. 18, no. 1, pp. 23–32, 2015. DOI: [10.1590/1516-1439.267314](https://doi.org/10.1590/1516-1439.267314).
-
 
 **[2]** J. Berry et al., "Interfacial tension-driven fluidic assembly of biocompatible materials," *Journal of Colloid and Interface Science*, vol. 437, pp. 232–240, 2015. DOI: [10.1016/j.jcis.2015.05.012](https://doi.org/10.1016/j.jcis.2015.05.012).
    
@@ -44,7 +43,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 ---
 
 # SCIAN-Drop
-SCIAN-Drop es un software basado en Python desarrollado para analizar la tensión interfacial y las propiedades mecánicas de Microgotas Biocompatibles (BMD) en experimentos biológicos y físicos.
+SCIAN-Drop es un software basado en Python desarrollado para analizar la tensión interfacial y las propiedades mecánicas de fluidos usando el método de *Pendant Drop* en experimentos biológicos y físicos.
 
 ## Referencias
 
