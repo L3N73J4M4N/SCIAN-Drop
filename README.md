@@ -59,13 +59,17 @@ SCIAN-Drop es un software basado en Python desarrollado para analizar la tensió
 
 ## Referencias
 
-[![Poster](https://img.shields.io/badge/Poster-PDF-blue)](https://github.com/L3N73J4M4N/SCIAN-Drop/releases/download/SCIAN-Drop/2024_Poster_MCarvajal_SCIANForce_SCIANDrop.pdf)
+Descarga y ve el poster sobre el software.
 
-**[1]** R. Lucio, A. Arashiro, and N. R. Demarquette, "Pendant drop method: A generalization of the Laplace equation to measure interfacial tension," in *Materials Research*, vol. 18, no. 1, pp. 23–32, 2015. DOI: [10.1590/1516-1439.267314](https://doi.org/10.1590/1516-1439.267314).
+[![SCIAN-Drop & SCIAN-Force](https://img.shields.io/badge/SCIAN--Drop%20%26%20SCIAN--Force-Membrane%20Deformation%20via%20Image%20Analysis-blue)](https://github.com/L3N73J4M4N/SCIAN-Force/releases/download/SCIAN-Force/2024_Poster_MCarvajal_SCIANForce_SCIANDrop.pdf)
 
-**[2]** J. Berry et al., "Interfacial tension-driven fluidic assembly of biocompatible materials," *Journal of Colloid and Interface Science*, vol. 437, pp. 232–240, 2015. DOI: [10.1016/j.jcis.2015.05.012](https://doi.org/10.1016/j.jcis.2015.05.012).
+**[1]** M. Carvajal et al., "SCIAN-Drop & SCIAN-Force: Quantification of Membrane Deformation via Image Analysis of Biocompatible Fluorocarbon MicroDroplets," XXXVI REUNIÓN ANUAL SOCIEDAD DE BIOLOGÍA CELULAR DE CHILE, 2024. Available in: [Poster SCIAN-Drop & SCIAN-Force](https://github.com/L3N73J4M4N/SCIAN-Force/releases/download/SCIAN-Force/2024_Poster_MCarvajal_SCIANForce_SCIANDrop.pdf).
+
+**[2]** R. Lucio, A. Arashiro, and N. R. Demarquette, "Pendant drop method: A generalization of the Laplace equation to measure interfacial tension," in *Materials Research*, vol. 18, no. 1, pp. 23–32, 2015. DOI: [10.1590/1516-1439.267314](https://doi.org/10.1590/1516-1439.267314).
+
+**[3]** J. Berry et al., "Interfacial tension-driven fluidic assembly of biocompatible materials," *Journal of Colloid and Interface Science*, vol. 437, pp. 232–240, 2015. DOI: [10.1016/j.jcis.2015.05.012](https://doi.org/10.1016/j.jcis.2015.05.012).
    
-**[3]** F. K. Hansen, "A New Method of Measuring Interfacial Tension," in *Journal of Colloid and Interface Science*, Elsevier, 1991, vol. 144, no. 1, pp. 194–200. DOI: [10.1016/0021-9797(91)90296-K](https://www.sciencedirect.com/science/article/pii/002197979190296K).
+**[4]** F. K. Hansen, "A New Method of Measuring Interfacial Tension," in *Journal of Colloid and Interface Science*, Elsevier, 1991, vol. 144, no. 1, pp. 194–200. DOI: [10.1016/0021-9797(91)90296-K](https://www.sciencedirect.com/science/article/pii/002197979190296K).
 
 ## Descripción
 SCIAN-Drop determina la tensión interfacial entre una gota de aceite fluorocarbonado y el medio circundante utilizando el método de Pendant Drop, una técnica bien conocida en la ciencia de superficies.
