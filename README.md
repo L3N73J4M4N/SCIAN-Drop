@@ -4,6 +4,8 @@ SCIAN-Drop is a Python-based software developed to analyze the interfacial tensi
 
 ## References
 
+[![Poster](https://img.shields.io/badge/Poster-PDF-blue)](https://github.com/L3N73J4M4N/SCIAN-Drop/releases/download/SCIAN-Drop/2024_Poster_MCarvajal_SCIANForce_SCIANDrop.pdf)
+
 **[1]** R. Lucio, A. Arashiro, and N. R. Demarquette, "Pendant drop method: A generalization of the Laplace equation to measure interfacial tension," in *Materials Research*, vol. 18, no. 1, pp. 23–32, 2015. DOI: [10.1590/1516-1439.267314](https://doi.org/10.1590/1516-1439.267314).
 
 **[2]** J. Berry et al., "Interfacial tension-driven fluidic assembly of biocompatible materials," *Journal of Colloid and Interface Science*, vol. 437, pp. 232–240, 2015. DOI: [10.1016/j.jcis.2015.05.012](https://doi.org/10.1016/j.jcis.2015.05.012).
@@ -41,7 +43,7 @@ pip install -r requirements.txt
 
 You can download the latest version of **SCIAN-Drop** for Windows as an executable file. Click the link below to start the download:
 
-[Download SCIAN-Drop.exe (updated 2024/11/16)](https://drive.google.com/uc?export=download&id=1KXZaDbkFf9LaBeZzygDsrQoyX2Dk9l4m)
+[Download SCIAN-Drop.exe (updated 2024/11/16)](https://github.com/L3N73J4M4N/SCIAN-Drop/releases/download/SCIAN-Drop/SCIAN-Drop.v2024.11.08.exe)
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
@@ -52,6 +54,8 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 SCIAN-Drop es un software basado en Python desarrollado para analizar la tensión interfacial y las propiedades mecánicas de fluidos usando el método de *Pendant Drop* en experimentos biológicos y físicos.
 
 ## Referencias
+
+[![Poster](https://img.shields.io/badge/Poster-PDF-blue)](https://github.com/L3N73J4M4N/SCIAN-Drop/releases/download/SCIAN-Drop/2024_Poster_MCarvajal_SCIANForce_SCIANDrop.pdf)
 
 **[1]** R. Lucio, A. Arashiro, and N. R. Demarquette, "Pendant drop method: A generalization of the Laplace equation to measure interfacial tension," in *Materials Research*, vol. 18, no. 1, pp. 23–32, 2015. DOI: [10.1590/1516-1439.267314](https://doi.org/10.1590/1516-1439.267314).
 
@@ -92,7 +96,7 @@ pip install -r requirements.txt
 
 Puedes descargar la última versión de **SCIAN-Drop** para Windows como un archivo ejecutable. Haz clic en el siguiente enlace para iniciar la descarga:
 
-[Descargar SCIAN-Drop.exe (actualizado 2024/11/16)](https://drive.google.com/uc?export=download&id=1KXZaDbkFf9LaBeZzygDsrQoyX2Dk9l4m)
+[Descargar SCIAN-Drop.exe (actualizado 2024/11/16)](https://github.com/L3N73J4M4N/SCIAN-Drop/releases/download/SCIAN-Drop/SCIAN-Drop.v2024.11.08.exe)
 
 ## Licencia
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
