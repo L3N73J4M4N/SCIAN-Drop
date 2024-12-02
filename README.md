@@ -10,7 +10,7 @@ Download and see the poster about the software.
 
 **[1]** M. Carvajal et al., "SCIAN-Drop & SCIAN-Force: Quantification of Membrane Deformation via Image Analysis of Biocompatible Fluorocarbon MicroDroplets," XXXVI REUNIÓN ANUAL SOCIEDAD DE BIOLOGÍA CELULAR DE CHILE, 2024. Available in: [Poster SCIAN-Drop & SCIAN-Force](https://github.com/L3N73J4M4N/SCIAN-Force/releases/download/SCIAN-Force/2024_Poster_MCarvajal_SCIANForce_SCIANDrop.pdf).
 
-**[2]** R. Lucio, A. Arashiro, and N. R. Demarquette, "Pendant drop method: A generalization of the Laplace equation to measure interfacial tension," in *Materials Research*, vol. 18, no. 1, pp. 23–32, 2015. DOI: [10.1590/1516-1439.267314](https://doi.org/10.1590/1516-1439.267314).
+**[2]** A. Lucio, D. Ingber, O. Campàs, "Chapter 20 - Generation of biocompatible droplets for in vivo and in vitro measurement of cell-generated mechanical stresses," in *Methods in Cell Biology*, vol. 125, pp. 373–390, 2015. DOI: [10.1016/bs.mcb.2014.11.008](https://doi.org/10.1016/bs.mcb.2014.11.008).
 
 **[3]** J. Berry et al., "Interfacial tension-driven fluidic assembly of biocompatible materials," *Journal of Colloid and Interface Science*, vol. 437, pp. 232–240, 2015. DOI: [10.1016/j.jcis.2015.05.012](https://doi.org/10.1016/j.jcis.2015.05.012).
    
@@ -65,7 +65,7 @@ Descarga y ve el poster sobre el software.
 
 **[1]** M. Carvajal et al., "SCIAN-Drop & SCIAN-Force: Quantification of Membrane Deformation via Image Analysis of Biocompatible Fluorocarbon MicroDroplets," XXXVI REUNIÓN ANUAL SOCIEDAD DE BIOLOGÍA CELULAR DE CHILE, 2024. Available in: [Poster SCIAN-Drop & SCIAN-Force](https://github.com/L3N73J4M4N/SCIAN-Force/releases/download/SCIAN-Force/2024_Poster_MCarvajal_SCIANForce_SCIANDrop.pdf).
 
-**[2]** R. Lucio, A. Arashiro, and N. R. Demarquette, "Pendant drop method: A generalization of the Laplace equation to measure interfacial tension," in *Materials Research*, vol. 18, no. 1, pp. 23–32, 2015. DOI: [10.1590/1516-1439.267314](https://doi.org/10.1590/1516-1439.267314).
+**[2]** A. Lucio, D. Ingber, O. Campàs, "Chapter 20 - Generation of biocompatible droplets for in vivo and in vitro measurement of cell-generated mechanical stresses," in *Methods in Cell Biology*, vol. 125, pp. 373–390, 2015. DOI: [10.1016/bs.mcb.2014.11.008](https://doi.org/10.1016/bs.mcb.2014.11.008).
 
 **[3]** J. Berry et al., "Interfacial tension-driven fluidic assembly of biocompatible materials," *Journal of Colloid and Interface Science*, vol. 437, pp. 232–240, 2015. DOI: [10.1016/j.jcis.2015.05.012](https://doi.org/10.1016/j.jcis.2015.05.012).
    
